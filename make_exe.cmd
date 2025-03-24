@@ -1,0 +1,1 @@
+pyinstaller.exe tmxConverter.spec
